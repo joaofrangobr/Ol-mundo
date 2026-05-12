@@ -1,2 +1,2 @@
 # Olá mundo
-Primeiro repertorio reversionado
+Primeiro repertorio do curso de Git e Github do curso em videos
